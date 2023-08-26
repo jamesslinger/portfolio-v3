@@ -70,7 +70,7 @@ export const projectInfo = [
         id: 7,
 		title: 'Portfolio v2',
 		img: <Image width={'100%'} height={'100%'} src={pfv2Img} alt="project image" />,
-		href: 'https://github.com/jamesslinger/portfolio-v2',
+		href: 'https://www-jamesslinger-com.onrender.com',
 		ghlink: 'https://github.com/jamesslinger/portfolio-v2',
 		desc: 'My old personal portfolio site, built using Python and the web framework Flask with Bootstrap 5.'
     }

@@ -10,10 +10,10 @@ export default function Home() {
 			</h1>
 			<div className="hidden w-screen h-px animate-glow md:block animate-fade-right bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
 			<div className="z-10 my-12 text-center animate-fade-in">
-				<h2 className="text-base sm:text-lg md:text-xl lg:text-2xl text-zinc-400 px-6 pb-3">
-					Hi, I'm James, a Full-Stack Developer from Leeds, UK.
+				<h2 className="text-base sm:text-lg md:text-xl lg:text-2xl text-zinc-400 px-8 pb-3">
+					Hi, I'm James, a Full-Stack Developer from Leeds, UK
 				</h2>
-				<h2 className="text-xs sm:text-base md:text-md text-zinc-400 px-8">
+				<h2 className="text-xs md:text-base text-zinc-400 px-10 sm:px-16">
 					JavaScript | Next.js | React | Node.js | Tailwind CSS | Python | Flask | + more
 				</h2>
 			</div>
