@@ -2,6 +2,7 @@ import "../global.css";
 import { Orbitron, Montserrat } from 'next/font/google'
 import { NavBar } from "./components/Nav";
 import Particles from "./components/particles";
+import { Analytics } from '@vercel/analytics/react';
 
 
 const orbitron = Orbitron({
@@ -33,6 +34,7 @@ export default function RootLayout({ children }) {
 				quantity={125}
 			/>
 			{ children }
+			<Analytics />
 		</body>
 	  </html>
 	)
