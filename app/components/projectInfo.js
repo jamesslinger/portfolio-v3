@@ -6,6 +6,7 @@ import ytdlImg from '/public/images/ytdl_img1.jpg';
 import pyImg from '/public/images/python-logo.png';
 import azImg from '/public/images/amazon_logo.png';
 import lxImg from '/public/images/linux_logo.png';
+import pfv2Img from '/public/images/pfv2_img1.jpg';
 
 
 export const projectInfo = [
@@ -64,5 +65,13 @@ export const projectInfo = [
 		href: 'https://github.com/jamesslinger/Amazon-Price-Checker',
 		ghlink: 'https://github.com/jamesslinger/Will-It-Rain',
 		desc: 'One of the first projects I completed that utilizes two different APIs and sends SMS messages. Using Python this app checks the OpenWeatherMap API for the latest weather forcast in my area and if it\'s going to rain, It sends me an SMS message using the Twilio API.'
+    },
+	{
+        id: 7,
+		title: 'Portfolio v2',
+		img: <Image width={'100%'} height={'100%'} src={pfv2Img} alt="project image" />,
+		href: 'https://github.com/jamesslinger/portfolio-v2',
+		ghlink: 'https://github.com/jamesslinger/portfolio-v2',
+		desc: 'My old personal portfolio site, built using Python and the web framework Flask with Bootstrap 5.'
     }
 ]
