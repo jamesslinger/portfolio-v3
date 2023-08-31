@@ -11,7 +11,7 @@ export default function Home() {
 			<div className="hidden w-screen h-px animate-glow md:block animate-fade-right bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
 			<div className="z-10 my-12 text-center animate-fade-in">
 				<h2 className="text-base sm:text-lg md:text-xl lg:text-2xl text-zinc-400 px-12 pb-3">
-					Hi, I'm James, a Full-Stack Developer from Leeds, UK
+					Hi, I'm James, a Developer from Leeds, UK
 				</h2>
 				<h2 className="text-xs md:text-sm text-zinc-400 px-20 sm:px-16">
 					JavaScript | Next.js | React | Node.js | Tailwind CSS | Python | Flask | + more
