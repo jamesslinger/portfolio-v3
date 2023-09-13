@@ -62,7 +62,7 @@ export const projectInfo = [
         id: 6,
 		title: 'Will It Rain Today?',
 		img: <Image width={'100%'} height={'100%'} src={pyImg} alt="project image" />,
-		href: 'https://github.com/jamesslinger/Amazon-Price-Checker',
+		href: 'https://github.com/jamesslinger/Will-It-Rain',
 		ghlink: 'https://github.com/jamesslinger/Will-It-Rain',
 		desc: 'One of the first projects I completed that utilizes two different APIs and sends SMS messages. Using Python this app checks the OpenWeatherMap API for the latest weather forcast in my area and if it\'s going to rain, It sends me an SMS message using the Twilio API.'
     },
