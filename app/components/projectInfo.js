@@ -30,7 +30,7 @@ export const projectInfo = [
         id: 2,
 		title: 'YouTube Audio Downloader App',
 		img: <Image width={'100%'} height={'100%'} src={ytdlImg} alt="project image" />,
-		href: 'https://ytdlaudio.onrender.com/',
+		href: 'https://ytd.jamesslinger.com',
 		ghlink: 'https://github.com/jamesslinger/YTDLAudio',
 		desc: 'This app allows you to download the audio steam from any YouTube video in MP3 format. It\'s built using Python, Flask, Jinja, Bootstrap 5, jQuery, Pytube and the Bytes.IO modules.'
     },
@@ -70,7 +70,7 @@ export const projectInfo = [
         id: 7,
 		title: 'Portfolio v2',
 		img: <Image width={'100%'} height={'100%'} src={pfv2Img} alt="project image" />,
-		href: 'https://www-jamesslinger-com.onrender.com',
+		href: 'https://pv2.jamesslinger.com',
 		ghlink: 'https://github.com/jamesslinger/portfolio-v2',
 		desc: 'My old personal portfolio site, built using Python and the web framework Flask with Bootstrap 5.'
     }
