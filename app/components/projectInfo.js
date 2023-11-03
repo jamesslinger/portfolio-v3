@@ -22,9 +22,9 @@ export const projectInfo = [
         id: 1,
 		title: 'To-Do List App',
 		img: <Image width={'100%'} height={'100%'} src={todoImg} alt="project image" />,
-		href: 'https://to-do-list-j8mu.onrender.com/',
+		href: 'https://todo.jamesslinger.com/',
 		ghlink: 'https://github.com/jamesslinger/To-Do-List',
-		desc: 'My take on a simple \'to-do\' list app built using JavaScript, jQuery, Node.js, Express.js and EJS. Data stored using MongoDB & Mongoose.'
+		desc: 'My \'to-do\' list app built using JavaScript, jQuery, Node.js, Express.js and EJS. Data stored using MongoDB & Mongoose.'
 	},
 	{
         id: 2,
