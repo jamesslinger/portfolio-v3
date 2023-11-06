@@ -38,7 +38,7 @@ export const projectInfo = [
         id: 3,
 		title: 'Favourite Things App',
 		img: <Image width={'100%'} height={'100%'} src={favImg} alt="project image" />,
-		href: 'https://favourite-things-app.onrender.com/',
+		href: 'https://favs.jamesslinger.com/',
 		ghlink: 'https://github.com/jamesslinger/Favourite-Things-App',
 		desc: 'A \'CRUD\' app that displays a flip card list of my favourite movies and songs. Items can be created, updated and deleted on demand. It\'s built with Python, Flask, Jinja, Bootstrap 5, PostgreSQL/SQLAlchemy, and WTForms. Data is pulled from the Google/YouTube API and TMDB API.'
     },
