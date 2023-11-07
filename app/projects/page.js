@@ -23,7 +23,7 @@ export default function Projects() {
 									className="absolute w-px h-4/5 bg-gradient-to-b from-zinc-500 via-zinc-500/50 to-transparent"
 									aria-hidden="true"
 								/>
-								<span className="relative z-10 flex w-72 h-56 sm:w-64 sm:h-52 md:w-80 md:h-64 lg:w-64 lg:h-52 text-sm duration-1000 border-2 rounded-xl text-zinc-200 bg-zinc-200 group-hover:text-white group-hover:bg-zinc-400 border-zinc-500 group-hover:border-zinc-200 overflow-hidden justify-center">
+								<span className="relative z-10 flex w-72 h-56 sm:w-64 sm:h-52 md:w-80 md:h-64 lg:w-72 lg:h-56 xl:w-96 xl:h-72 text-sm duration-1000 border-2 rounded-xl text-zinc-200 bg-zinc-200 group-hover:text-white group-hover:bg-zinc-400 border-zinc-500 group-hover:border-zinc-200 overflow-hidden justify-center">
 									<span className="object-cover object-top overflow-hidden hover:scale-110 transition duration-500">
 										{p.img}
 									</span>
