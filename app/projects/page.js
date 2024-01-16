@@ -36,6 +36,9 @@ export default function Projects() {
 									<span className="mt-4 text-base text-center duration-1000 text-zinc-400 group-hover:text-zinc-200 drop-shadow">
 										{p.desc}
 									</span>
+									<span className="mt-4 text-base text-center duration-1000 text-zinc-400 group-hover:text-zinc-200 drop-shadow">
+										{p.stack}
+									</span>
 								</div>
 							</Link>
 							<Link
