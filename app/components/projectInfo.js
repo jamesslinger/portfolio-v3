@@ -17,7 +17,7 @@ export const projectInfo = [
 		href: 'https://flightflavour.com/',
 		ghlink: 'https://github.com/jamesslinger/flight_flavour',
 		desc: 'Find flight destination ideas to match your budget and easily book live deals via affiliate integration',
-		stack: 'Stack: React.js, JavaScript, Material UI, EmailJS.com API, Kiwi.com API'
+		stack: 'Stack: React.js, JavaScript, React Router, Framer Motion, Material UI, EmailJS.com API, Kiwi.com API'
     },
 	{
         id: 1,
