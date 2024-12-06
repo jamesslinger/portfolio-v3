@@ -23,7 +23,8 @@ export const projectInfo = [
         id: 1,
 		title: 'To-Do List App',
 		img: <Image width={'100%'} height={'100%'} src={todoImg} alt="project image" />,
-		href: 'https://todo.jamesslinger.com/',
+		/* href: 'https://todo.jamesslinger.com/',*/
+		href: 'https://github.com/jamesslinger/To-Do-List',
 		ghlink: 'https://github.com/jamesslinger/To-Do-List',
 		desc: 'My \'to-do\' list app with easy to create, delete or move notes and current full date',
 		stack: 'Stack: JavaScript, jQuery, Node.js, Express.js, EJS, MongoDB Atlas, Mongoose'
@@ -32,7 +33,8 @@ export const projectInfo = [
         id: 2,
 		title: 'YouTube Audio Downloader App',
 		img: <Image width={'100%'} height={'100%'} src={ytdlImg} alt="project image" />,
-		href: 'https://ytd.jamesslinger.com',
+		/* href: 'https://ytd.jamesslinger.com',*/
+		href: 'https://github.com/jamesslinger/YTDLAudio',
 		ghlink: 'https://github.com/jamesslinger/YTDLAudio',
 		desc: 'Download only the audio from any YouTube video in MP3 format with different file size options listed',
 		stack: 'Stack: Python, Flask, Jinja, jQuery, Bootstrap 5, Pytube, Bytes.IO, Google API'
@@ -41,7 +43,8 @@ export const projectInfo = [
         id: 3,
 		title: 'Favourite Things App',
 		img: <Image width={'100%'} height={'100%'} src={favImg} alt="project image" />,
-		href: 'https://favs.jamesslinger.com/',
+		/* href: 'https://favs.jamesslinger.com/',*/
+		href: 'https://github.com/jamesslinger/Favourite-Things-App',
 		ghlink: 'https://github.com/jamesslinger/Favourite-Things-App',
 		desc: 'A \'CRUD\' app that displays flip cards of my favourite movies and songs in a countdown list. The cards include box art, synopsis, links to the relevant movie database or YouTube track page, and my rating/review',
 		stack: 'Stack: Python, Flask, Jinja, Bootstrap 5, PostgreSQL, SQLAlchemy, WTForms, Google API, TheMovieDB.org API'
@@ -77,7 +80,8 @@ export const projectInfo = [
         id: 7,
 		title: 'Portfolio v2',
 		img: <Image width={'100%'} height={'100%'} src={pfv2Img} alt="project image" />,
-		href: 'https://pv2.jamesslinger.com',
+		/*href: 'https://pv2.jamesslinger.com',*/
+		href: 'https://github.com/jamesslinger/portfolio-v2',
 		ghlink: 'https://github.com/jamesslinger/portfolio-v2',
 		desc: 'My previous personal portfolio site',
 		stack: 'Stack: Python, Flask, Bootstrap 5'
