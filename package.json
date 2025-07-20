@@ -3,21 +3,21 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start"
   },
   "dependencies": {
     "@types/node": "20.2.1",
-    "@types/react": "18.2.6",
-    "@types/react-dom": "18.2.4",
+    "@types/react": "19.1.8",
+    "@types/react-dom": "19.1.6",
     "@vercel/analytics": "^1.0.2",
-    "framer-motion": "^10.12.12",
-    "lucide-react": "^0.268.0",
+    "lucide-react": "^0.525.0",
     "markdown-wasm": "^1.2.0",
-    "next": "13.4.3",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
+    "motion": "^12.23.6",
+    "next": "15.4.2",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
     "typescript": "5.0.4",
     "uuid": "^9.0.0"
   },
@@ -29,5 +29,9 @@
     "postcss-nesting": "^11.2.2",
     "rome": "^11.0.0",
     "tailwindcss": "^3.2.7"
+  },
+  "overrides": {
+    "@types/react": "19.1.8",
+    "@types/react-dom": "19.1.6"
   }
 }

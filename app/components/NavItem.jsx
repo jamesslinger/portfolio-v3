@@ -1,4 +1,4 @@
-import { motion } from "framer-motion";
+import { motion } from "motion/react";
 import { Star, Github, Linkedin, Mail, Download, User, MoveLeft } from "lucide-react";
 import Link from "next/link";
 

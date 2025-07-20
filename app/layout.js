@@ -20,9 +20,9 @@ const montserrat = Montserrat({
   })
 
 export const metadata = {
-	title: 'James Slinger Portfolio',
-	description: 'Full-Stack Developer',
-  }
+  title: 'James Slinger Portfolio',
+  description: 'Full-Stack Developer'
+}
 
 export default function RootLayout({ children }) {
 	return (

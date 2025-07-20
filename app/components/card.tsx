@@ -4,7 +4,7 @@ import {
 	motion,
 	useMotionTemplate,
 	useSpring,
-} from "framer-motion";
+} from "motion/react";
 import { PropsWithChildren } from "react";
 
 

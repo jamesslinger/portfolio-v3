@@ -1,7 +1,7 @@
 'use client';
 
 import { useRef, useState } from "react";
-import { motion } from "framer-motion";
+import { motion } from "motion/react";
 import { NavToggle } from "./NavToggle";
 import { NavMenu } from "./NavMenu";
 

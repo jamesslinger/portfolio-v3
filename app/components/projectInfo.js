@@ -1,12 +1,13 @@
 import Image from 'next/image';
-import favImg from '/public/images/fav_img1.jpg';
-import ffImg from '/public/images/ff_img1.jpg';
-import todoImg from '/public/images/todo_img1.jpg';
-import ytdlImg from '/public/images/ytdl_img1.jpg';
-import pyImg from '/public/images/python-logo.png';
-import azImg from '/public/images/amazon_logo.png';
-import lxImg from '/public/images/linux_logo.png';
-import pfv2Img from '/public/images/pfv2_img1.jpg';
+import favImg from 'public/images/fav_img1.jpg';
+import ffImg from 'public/images/ff_img1.jpg';
+import todoImg from 'public/images/todo_img1.jpg';
+import ytdlImg from 'public/images/ytdl_img1.jpg';
+import pyImg from 'public/images/python-logo.png';
+import azImg from 'public/images/amazon_logo.png';
+import lxImg from 'public/images/linux_logo.png';
+import pfv2Img from 'public/images/pfv2_img1.jpg';
+
 
 
 export const projectInfo = [
