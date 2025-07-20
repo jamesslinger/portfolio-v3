@@ -7,6 +7,9 @@
     "build": "next build",
     "start": "next start"
   },
+  "engins": {
+    "node": "22.17.1"
+  },
   "dependencies": {
     "@types/node": "20.2.1",
     "@types/react": "19.1.8",
